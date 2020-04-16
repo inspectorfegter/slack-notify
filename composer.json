@@ -1,0 +1,6 @@
+{
+    "name": "brianfegter/slack-notify",
+    "description": "This is a WIP",
+    "type": "wordpress-plugin",
+    "require": {}
+}
